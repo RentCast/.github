@@ -1,6 +1,6 @@
-# Welcome to the RentCast API GitHub Page 👋
+# Welcome to the RentCast API GitHub &nbsp;👋
 
-Our real estate and property data API provides access to 140+ million property records, owner details, home value and rent estimates, comparable properties, active sale and rental listings, as well as aggregate real estate market data.
+Our real estate and property data API provides access to **140+ million** property records, owner details, home value and rent estimates, comparable properties, active sale and rental listings, as well as aggregate real estate market data.
 
 We provide nationwide coverage for most residential and commercial properties in the United States, as well as rental market data coverage for most US zip codes and cities.
 
@@ -24,10 +24,10 @@ You can start testing and using our API and property data in just a few minutes:
 
 1. Create a RentCast account at [https://app.rentcast.io/app/api](https://app.rentcast.io/app/api)
 2. Generate a new API key
-3. Pick one of the available API billing plans. The free *Developer* plan is a great start
-4. Send your API key in the `X-Api-Key` header when making requests to any of our endpoints: [https://developers.rentcast.io](https://developers.rentcast.io)
+3. Pick one of the available API billing plans. The free **Developer** plan is a great start
+4. Send your API key in the `X-Api-Key` header when making requests to our endpoints: [https://developers.rentcast.io](https://developers.rentcast.io)
 
-You can also read [this step-by-step guide](https://developers.rentcast.io/reference/getting-started-guide) if you need further help or a more in-depth walkthrough on how to start using our API.
+You can read [this step-by-step guide](https://developers.rentcast.io/reference/getting-started-guide) if you need further help or a more in-depth walkthrough on how to start using our API.
 
 &nbsp;
 
@@ -42,7 +42,7 @@ The following is a list of data sets and endpoints that we provide for retrievin
 | [Property Valuation (Rent AVM)](https://developers.rentcast.io/reference/property-valuation) | Retrieve property rent estimates (AVM) and rental comparables for residential and commercial properties | Daily |
 | [Property Listings (Sale)](https://developers.rentcast.io/reference/property-listings) | Retrieve active and historical sale listings and their listing data | Daily |
 | [Property Listings (Rental)](https://developers.rentcast.io/reference/property-listings) | Retrieve active and historical rental listings and their listing data | Daily |
-| [Market Statistics](https://developers.rentcast.io/reference/market-data) | Retrieve aggregate rental listing data, averages, listing statistics, and historical rent trends by zip code | Daily |
+| [Market Data](https://developers.rentcast.io/reference/market-data) | Retrieve aggregate rental market data, averages, listing statistics, and historical rent trends by zip code | Daily |
 
 &nbsp;
 
@@ -57,5 +57,3 @@ This includes tips on how to structure your [search queries](https://developers.
 Our dedicated support team is available 7 days a week to answer your questions and provide help with your integration via live chat or email.
 
 You can contact us by launching the live chat at the bottom right of our [developer portal](https://developers.rentcast.io), or by sending an email to support@rentcast.io.
-
-&nbsp;
