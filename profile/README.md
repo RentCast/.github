@@ -2,7 +2,7 @@
 
 Our real estate and property data API provides access to **140+ million** property records, owner details, home value and rent estimates, comparable properties, active sale and rental listings, as well as aggregate real estate market data.
 
-We provide nationwide coverage for most residential and commercial properties in the United States, as well as rental market data coverage for most US zip codes and cities.
+We provide nationwide coverage for most residential and commercial properties in the United States, as well as sale and rental market data coverage for most US zip codes and cities.
 
 You can use our API and property data to power and enrich your real estate applications, SAAS projects, CRM systems, internal operations, or business workflows.
 
@@ -42,7 +42,7 @@ The following is a list of data sets and endpoints that we provide for retrievin
 | [Property Valuation (Rent AVM)](https://developers.rentcast.io/reference/property-valuation) | Retrieve property rent estimates (AVM) and rental comparables for residential and commercial properties | Daily |
 | [Property Listings (Sale)](https://developers.rentcast.io/reference/property-listings) | Retrieve active and historical sale listings and their listing data | Daily |
 | [Property Listings (Rental)](https://developers.rentcast.io/reference/property-listings) | Retrieve active and historical rental listings and their listing data | Daily |
-| [Market Data](https://developers.rentcast.io/reference/market-data) | Retrieve aggregate rental market data, averages, listing statistics, and historical rent trends by zip code | Daily |
+| [Market Data](https://developers.rentcast.io/reference/market-data) | Retrieve aggregate sale and rental market data, averages, listing statistics, and historical price and rent trends by zip code | Daily |
 
 &nbsp;
 
