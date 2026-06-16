@@ -1,10 +1,10 @@
 # Welcome to the RentCast API GitHub &nbsp;👋
 
-Our real estate and property data API provides access to **140+ million** property records, owner details, home value and rent estimates, comparable properties, active sale and rental listings, as well as aggregate real estate market data.
+Our real estate and property data API provides access to **150+ million** property records, owner details, home value and rent estimates, comparable properties, active sale and rental listings, as well as aggregate real estate market data.
 
 We provide nationwide coverage for most residential and commercial properties in the United States, as well as sale and rental market data coverage for most US zip codes and cities.
 
-You can use our API and property data to power and enrich your real estate applications, SAAS projects, CRM systems, internal operations, or business workflows.
+You can use our API and property data to power and enrich your real estate applications, SaaS projects, CRM systems, internal operations, or business workflows.
 
 &nbsp;
 
@@ -13,7 +13,7 @@ You can use our API and property data to power and enrich your real estate appli
 - [API Documentation](https://developers.rentcast.io)
 - [API Pricing](https://rentcast.io/api#api-pricing)
 - [Client Dashboard](https://app.rentcast.io/app/api)
-- [PostMan Collection](https://www.postman.com/rentcast/workspace/rentcast-api/collection/34259606-4b4532c7-3e0f-4a51-a019-438a3d68b4c3)
+- [Postman Collection](https://www.postman.com/rentcast/workspace/rentcast-api/collection/34259606-4b4532c7-3e0f-4a51-a019-438a3d68b4c3)
 - [Zapier Integration](https://zapier.com/apps/rentcast/integrations)
 
 &nbsp;
@@ -49,7 +49,7 @@ The following is a list of data sets and endpoints that we provide for retrievin
 ## Guides and More Information
 You can view detailed guides on using our API, learn more about our data sources and coverage, and view a full reference of our available endpoints on our API developer portal: [https://developers.rentcast.io](https://developers.rentcast.io).
 
-This includes tips on how to structure your [search queries](https://developers.rentcast.io/reference/search-queries), how to retrieve data in bulk using [pagination](https://developers.rentcast.io/reference/pagination), the [types of properties](https://developers.rentcast.io/reference/property-types) we support, as well as our [rate limits](https://developers.rentcast.io/reference/rate-limits) and [response codes](https://developers.rentcast.io/reference/response-codes).
+This includes tips on how to structure your [search queries](https://developers.rentcast.io/reference/search-queries), how to retrieve data in bulk using [pagination](https://developers.rentcast.io/reference/pagination), the [types of properties](https://developers.rentcast.io/reference/property-types) we support, as well as our [rate limits](https://developers.rentcast.io/reference/rate-limits) and [security best practices](https://developers.rentcast.io/reference/security).
 
 &nbsp;
 
