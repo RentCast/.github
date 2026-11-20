@@ -14,7 +14,7 @@ You can use our API and property data to power and enrich your real estate appli
 - [API Pricing](https://rentcast.io/api#api-pricing)
 - [Client Dashboard](https://app.rentcast.io/app/api)
 - [Postman Collection](https://www.postman.com/rentcast/workspace/rentcast-api/collection/34259606-4b4532c7-3e0f-4a51-a019-438a3d68b4c3)
-- [MCP Server](https://developers.rentcast.io/mcp)
+- [MCP Server](https://developers.rentcast.io/reference/ai-tools#mcp-server)
 - [Integration Guides](https://developers.rentcast.io/reference/integrations)
 
 &nbsp;
