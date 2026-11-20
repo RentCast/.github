@@ -14,7 +14,8 @@ You can use our API and property data to power and enrich your real estate appli
 - [API Pricing](https://rentcast.io/api#api-pricing)
 - [Client Dashboard](https://app.rentcast.io/app/api)
 - [Postman Collection](https://www.postman.com/rentcast/workspace/rentcast-api/collection/34259606-4b4532c7-3e0f-4a51-a019-438a3d68b4c3)
-- [Zapier Integration](https://zapier.com/apps/rentcast/integrations)
+- [MCP Server](https://developers.rentcast.io/mcp)
+- [Integration Guides](https://developers.rentcast.io/reference/integrations)
 
 &nbsp;
 
@@ -69,3 +70,5 @@ This includes tips on how to structure your [search queries](https://developers.
 Our dedicated support team is available 7 days a week to answer your questions and provide help with your integration via live chat or email.
 
 You can contact us by launching the live chat at the bottom right of our [developer portal](https://developers.rentcast.io), or by sending an email to [support@rentcast.io](mailto:support@rentcast.io).
+
+&nbsp;
