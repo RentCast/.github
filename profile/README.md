@@ -34,7 +34,7 @@ You can read [this step-by-step guide](https://developers.rentcast.io/reference/
 
 ## Integration Options
 
-We provide many integration options for connecting our API and property data to your apps, AI tools, and automation workflows:
+We provide many integration options for connecting our API and data to your apps, AI tools, and workflows:
 
 - [Zapier Integration](https://zapier.com/apps/rentcast/integrations): connect RentCast to 9,000+ other apps and automation workflows
 - [AI Tools and MCP](https://developers.rentcast.io/reference/ai-tools): connect AI assistants, agents, and code editors to our API via our MCP server and other tools
