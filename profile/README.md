@@ -48,9 +48,9 @@ The following is a list of data sets and endpoints that we provide for retrievin
 
 | Data Set | Description | Update Frequency |
 | --- | --- | --- |
-| [Property Records](https://developers.rentcast.io/reference/property-data) | Retrieve property attributes, features, property tax data, and property owner information for residential and commercial properties | Weekly |
-| [Property Valuation (Value AVM)](https://developers.rentcast.io/reference/property-valuation) | Retrieve property value estimates (AVM) and sales comparables for residential and commercial properties | Daily |
-| [Property Valuation (Rent AVM)](https://developers.rentcast.io/reference/property-valuation) | Retrieve property rent estimates (AVM) and rental comparables for residential and commercial properties | Daily |
+| [Property Records](https://developers.rentcast.io/reference/property-data) | Retrieve property attributes, features, property tax data, and property owner information for residential and select commercial properties | Weekly |
+| [Property Valuation (Value AVM)](https://developers.rentcast.io/reference/property-valuation) | Retrieve property value estimates (AVM) and sales comparables for residential and select commercial properties | Daily |
+| [Property Valuation (Rent AVM)](https://developers.rentcast.io/reference/property-valuation) | Retrieve property rent estimates (AVM) and rental comparables for residential and select commercial properties | Daily |
 | [Property Listings (Sale)](https://developers.rentcast.io/reference/property-listings) | Retrieve active and historical sale listings and their listing data | Daily |
 | [Property Listings (Rental)](https://developers.rentcast.io/reference/property-listings) | Retrieve active and historical rental listings and their listing data | Daily |
 | [Market Data](https://developers.rentcast.io/reference/market-data) | Retrieve aggregate sale and rental market data, averages, listing statistics, and historical price and rent trends by zip code | Daily |
